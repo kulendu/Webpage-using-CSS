@@ -1,0 +1,33 @@
+body{
+    background-image: url(../images/wave\ \(1\).svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-content: center;
+    scroll-behavior: smooth;
+    background-position: relative;
+    background-attachment: fixed;
+}
+
+.einstein-img{
+    height: 10%;
+    width: 20%;
+}
+
+.main{
+    margin: 15% 0;
+    padding: 0 30%;
+}
+
+.info-section{
+    margin: 0 35%;
+}
+
+.c-img{
+    align-content: center;
+}
+
+footer{
+    padding-top: 20%;
+    padding-bottom: 1%;
+}
